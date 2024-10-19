@@ -1,0 +1,6 @@
+GITHUB
+Upload files from last week
+play with and set up git
+dont install on base laptop
+git add commit
+set up github account with L number
